@@ -39,3 +39,4 @@ Average kapsamına girer çünkü aradaığız sayı dizini ortasıda .
 [2,3,4,8,7,6,5,15,16]
 [2,3,4,5,7,6,8,15,16]
 [2,3,4,5,6,7,8,15,16]
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar
